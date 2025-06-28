@@ -386,6 +386,8 @@ dpi = 600 # For good quality image
 plt.figure(dpi=dpi)
 plt.imshow(normalized_flux_2d, interpolation='none', origin='lower', cmap='viridis')
 plt.colorbar(orientation='vertical', label='neutrons/$cm^2$-s')
+plt.axis('off')  # Removes axis ticks and labels for a clean visualization
+plt.savefig("./flux_distribution.png", dpi=dpi, bbox_inches='tight')
 plt.show()
 plt.close()
 
