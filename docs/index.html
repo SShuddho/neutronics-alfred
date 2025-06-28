@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ALFRED Reactor Core Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Roboto', sans-serif;
+            background-color: #1a1a2e;
+            color: #e5e5e5;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            text-align: center;
+        }
+        header {
+            margin-bottom: 40px;
+        }
+        h1 {
+            font-size: 2.5em;
+            font-weight: 700;
+            color: #4ecca3;
+            margin-bottom: 10px;
+        }
+        h2 {
+            font-size: 1.2em;
+            font-weight: 300;
+            color: #e5e5e5;
+            margin-bottom: 20px;
+        }
+        h2 a {
+            color: #4ecca3;
+            text-decoration: none;
+        }
+        h2 a:hover {
+            text-decoration: underline;
+        }
+        .authors {
+            font-size: 1.1em;
+            font-weight: 400;
+            color: #b0b0b0;
+            margin-bottom: 30px;
+        }
+        .authors a {
+            color: #4ecca3;
+            text-decoration: none;
+        }
+        .authors a:hover {
+            text-decoration: underline;
+        }
+        .nav-section {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        .nav-section a {
+            display: inline-block;
+            padding: 15px 30px;
+            background-color: #4ecca3;
+            color: #1a1a2e;
+            text-decoration: none;
+            font-weight: 400;
+            font-size: 1.1em;
+            border-radius: 5px;
+            transition: background-color 0.3s, transform 0.2s;
+        }
+        .nav-section a:hover {
+            background-color: #45b592;
+            transform: translateY(-2px);
+        }
+        footer {
+            margin-top: 50px;
+            font-size: 0.9em;
+            color: #b0b0b0;
+        }
+        footer a {
+            color: #4ecca3;
+            text-decoration: none;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 2em;
+            }
+            .nav-section a {
+                padding: 12px 20px;
+                font-size: 1em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>ALFRED Reactor Core Portfolio</h1>
+            <h2>Neutronics Analysis Using <a href="https://docs.openmc.org/en/stable/">OpenMC</a> and Python</h2>
+            <p class="authors">Developed by <a href="https://linkedin.com/in/sshuddho/">Safius Sakib Shuddho</a> and <a href="https://www.linkedin.com/in/aqueeb-sunny-509709313/">Aqueeb Anjum Sunny</a></p>
+        </header>
+        <div class="nav-section">
+            <a href="ALFRED-model.html">ALFRED Model</a>
+            <a href="neutron-spectrum.html">Neutron Energy Spectrum</a>
+            <a href="radial-flux.html">Radial Neutron Flux Distribution</a>
+        </div>
+        <footer>
+            <p>© 2025 Safius Sakib Shuddho and Aqueeb Anjum Sunny. Hosted on <a href="https://github.com/SShuddho/neutronics-alfred">GitHub</a>.</p>
+        </footer>
+    </div>
+</body>
+</html>
