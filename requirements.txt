@@ -1,0 +1,6 @@
+openmc
+numpy
+matplotlib
+jupyter
+nbconvert
+plotly

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*/statepoint.*.h5
+*/summary.h5
+*/tallies.out
+*/*.xml
