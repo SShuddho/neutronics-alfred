@@ -399,4 +399,4 @@ mean_flux = normalized_flux[normalized_flux > 0].mean()
 
 print('Average Neutron Flux:', mean_flux)
 print('Minimum Neutron Flux:', min_flux)
-print('Minimum Neutron Flux:', max_flux)
+print('Maximum Neutron Flux:', max_flux)
