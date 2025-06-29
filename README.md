@@ -5,8 +5,6 @@ A portfolio showcasing neutronics analysis of the ALFRED reactor using OpenMC an
 
 [View Portfolio](https://SShuddho.github.io/neutronics-alfred)
 
-Below is your updated **Overview** section formatted as Markdown for the `README.md` file, with the key analyses presented as a numbered list to match your provided text. The content remains unchanged, ensuring the mention of flux normalization and all other details are preserved.
-
 ## Overview
 This project presents an elementary neutronics analysis of the Advanced Lead-cooled Fast Reactor European Demonstrator (ALFRED), designed as a demonstrator for the European Lead-cooled Fast Reactor (ELFR), a GEN-IV nuclear reactor.
 
