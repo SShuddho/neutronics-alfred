@@ -1,7 +1,4 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-./*/summary.h5
-./*/tallies.out
-./*/*.xml
 ./notebooks/*/*.png

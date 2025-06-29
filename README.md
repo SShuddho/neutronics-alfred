@@ -23,11 +23,6 @@ Neutron flux values are normalized to ensure consistent and conventional units, 
 - [Neutron Spectrum](notebooks/neutron-spectrum/neutron-spectrum.ipynb)
 - [Radial Flux](notebooks/radial-flux/radial-flux.ipynb)
 
-## Source Code
-- [ALFRED Model](src/ALFRED-model.py)
-- [Neutron Spectrum](src/neutron-spectrum.py)
-- [Radial Flux](src/radial-flux.py)
-
 ## Setup Instructions
 To run the notebooks or scripts:
 1. Install OpenMC: See [OpenMC documentation](https://docs.openmc.org/en/stable/quickinstall.html).
