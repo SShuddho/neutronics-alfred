@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tallies>
+  <filter id="2" type="distribcell">
+    <bins>16</bins>
+  </filter>
+  <tally id="28">
+    <filters>2</filters>
+    <scores>fission</scores>
+  </tally>
+  <tally id="1">
+    <scores>heating-local</scores>
+  </tally>
+</tallies>

@@ -1,0 +1,348 @@
+ ===========================>     TALLY 28     <============================
+
+ Distributed Cell u14->c52->l13(3,-8)->u7->c16
+   Total Material
+     Fission Rate                         0.00157975 +/- 7.00345e-05
+ Distributed Cell u14->c52->l13(4,-8)->u7->c16
+   Total Material
+     Fission Rate                         0.00159036 +/- 6.39714e-05
+ Distributed Cell u14->c52->l13(5,-8)->u7->c16
+   Total Material
+     Fission Rate                         0.0015789 +/- 6.7479e-05
+ Distributed Cell u14->c52->l13(0,-7)->u7->c16
+   Total Material
+     Fission Rate                         0.00161896 +/- 6.92615e-05
+ Distributed Cell u14->c52->l13(1,-7)->u7->c16
+   Total Material
+     Fission Rate                         0.00176646 +/- 5.32479e-05
+ Distributed Cell u14->c52->l13(2,-7)->u7->c16
+   Total Material
+     Fission Rate                         0.00184809 +/- 4.82903e-05
+ Distributed Cell u14->c52->l13(3,-7)->u7->c16
+   Total Material
+     Fission Rate                         0.00170351 +/- 5.0867e-05
+ Distributed Cell u14->c52->l13(4,-7)->u7->c16
+   Total Material
+     Fission Rate                         0.00172577 +/- 6.69278e-05
+ Distributed Cell u14->c52->l13(5,-7)->u7->c16
+   Total Material
+     Fission Rate                         0.00176153 +/- 6.42719e-05
+ Distributed Cell u14->c52->l13(6,-7)->u7->c16
+   Total Material
+     Fission Rate                         0.00175543 +/- 6.48794e-05
+ Distributed Cell u14->c52->l13(7,-7)->u7->c16
+   Total Material
+     Fission Rate                         0.00159019 +/- 7.91591e-05
+ Distributed Cell u14->c52->l13(-1,-6)->u7->c16
+   Total Material
+     Fission Rate                         0.00169415 +/- 4.14026e-05
+ Distributed Cell u14->c52->l13(0,-6)->u7->c16
+   Total Material
+     Fission Rate                         0.00204923 +/- 3.96788e-05
+ Distributed Cell u14->c52->l13(1,-6)->u7->c16
+   Total Material
+     Fission Rate                         0.00219679 +/- 4.5056e-05
+ Distributed Cell u14->c52->l13(3,-6)->u7->c16
+   Total Material
+     Fission Rate                         0.00209181 +/- 4.42048e-05
+ Distributed Cell u14->c52->l13(5,-6)->u7->c16
+   Total Material
+     Fission Rate                         0.00219676 +/- 5.15098e-05
+ Distributed Cell u14->c52->l13(6,-6)->u7->c16
+   Total Material
+     Fission Rate                         0.00196014 +/- 5.86466e-05
+ Distributed Cell u14->c52->l13(7,-6)->u7->c16
+   Total Material
+     Fission Rate                         0.00174051 +/- 6.40846e-05
+ Distributed Cell u14->c52->l13(-3,-5)->u7->c16
+   Total Material
+     Fission Rate                         0.00160219 +/- 6.73943e-05
+ Distributed Cell u14->c52->l13(-2,-5)->u7->c16
+   Total Material
+     Fission Rate                         0.00182357 +/- 4.38704e-05
+ Distributed Cell u14->c52->l13(-1,-5)->u7->c16
+   Total Material
+     Fission Rate                         0.00219011 +/- 4.93978e-05
+ Distributed Cell u14->c52->l13(0,-5)->u7->c16
+   Total Material
+     Fission Rate                         0.00253162 +/- 5.64251e-05
+ Distributed Cell u14->c52->l13(1,-5)->u7->c16
+   Total Material
+     Fission Rate                         0.00255479 +/- 4.41222e-05
+ Distributed Cell u14->c52->l13(2,-5)->u7->c16
+   Total Material
+     Fission Rate                         0.00248987 +/- 3.39898e-05
+ Distributed Cell u14->c52->l13(3,-5)->u7->c16
+   Total Material
+     Fission Rate                         0.00261761 +/- 3.2269e-05
+ Distributed Cell u14->c52->l13(4,-5)->u7->c16
+   Total Material
+     Fission Rate                         0.00266008 +/- 4.84794e-05
+ Distributed Cell u14->c52->l13(5,-5)->u7->c16
+   Total Material
+     Fission Rate                         0.00247351 +/- 4.88028e-05
+ Distributed Cell u14->c52->l13(6,-5)->u7->c16
+   Total Material
+     Fission Rate                         0.00216882 +/- 4.5317e-05
+ Distributed Cell u14->c52->l13(7,-5)->u7->c16
+   Total Material
+     Fission Rate                         0.0017007 +/- 4.3593e-05
+ Distributed Cell u14->c52->l13(8,-5)->u7->c16
+   Total Material
+     Fission Rate                         0.00144777 +/- 4.31339e-05
+ Distributed Cell u14->c52->l13(-4,-4)->u7->c16
+   Total Material
+     Fission Rate                         0.00148704 +/- 6.62389e-05
+ Distributed Cell u14->c52->l13(-3,-4)->u7->c16
+   Total Material
+     Fission Rate                         0.00180481 +/- 4.49004e-05
+ Distributed Cell u14->c52->l13(-1,-4)->u7->c16
+   Total Material
+     Fission Rate                         0.00258457 +/- 2.90491e-05
+ Distributed Cell u14->c52->l13(5,-4)->u7->c16
+   Total Material
+     Fission Rate                         0.00254467 +/- 3.89923e-05
+ Distributed Cell u14->c52->l13(7,-4)->u7->c16
+   Total Material
+     Fission Rate                         0.00166616 +/- 4.79008e-05
+ Distributed Cell u14->c52->l13(8,-4)->u7->c16
+   Total Material
+     Fission Rate                         0.00139401 +/- 3.80607e-05
+ Distributed Cell u14->c52->l13(-5,-3)->u7->c16
+   Total Material
+     Fission Rate                         0.00153444 +/- 4.53221e-05
+ Distributed Cell u14->c52->l13(-4,-3)->u7->c16
+   Total Material
+     Fission Rate                         0.001665 +/- 4.66724e-05
+ Distributed Cell u14->c52->l13(-3,-3)->u7->c16
+   Total Material
+     Fission Rate                         0.0021584 +/- 4.12955e-05
+ Distributed Cell u14->c52->l13(-2,-3)->u7->c16
+   Total Material
+     Fission Rate                         0.00266962 +/- 4.75362e-05
+ Distributed Cell u14->c52->l13(5,-3)->u7->c16
+   Total Material
+     Fission Rate                         0.00260818 +/- 5.86546e-05
+ Distributed Cell u14->c52->l13(6,-3)->u7->c16
+   Total Material
+     Fission Rate                         0.0020624 +/- 6.45354e-05
+ Distributed Cell u14->c52->l13(7,-3)->u7->c16
+   Total Material
+     Fission Rate                         0.00165053 +/- 3.61465e-05
+ Distributed Cell u14->c52->l13(8,-3)->u7->c16
+   Total Material
+     Fission Rate                         0.00143176 +/- 5.06222e-05
+ Distributed Cell u14->c52->l13(-5,-2)->u7->c16
+   Total Material
+     Fission Rate                         0.00175501 +/- 6.11836e-05
+ Distributed Cell u14->c52->l13(-3,-2)->u7->c16
+   Total Material
+     Fission Rate                         0.00269003 +/- 4.87668e-05
+ Distributed Cell u14->c52->l13(5,-2)->u7->c16
+   Total Material
+     Fission Rate                         0.0026025 +/- 5.24947e-05
+ Distributed Cell u14->c52->l13(7,-2)->u7->c16
+   Total Material
+     Fission Rate                         0.00164391 +/- 3.89672e-05
+ Distributed Cell u14->c52->l13(-6,-1)->u7->c16
+   Total Material
+     Fission Rate                         0.00175285 +/- 5.57972e-05
+ Distributed Cell u14->c52->l13(-5,-1)->u7->c16
+   Total Material
+     Fission Rate                         0.00218719 +/- 5.29912e-05
+ Distributed Cell u14->c52->l13(-4,-1)->u7->c16
+   Total Material
+     Fission Rate                         0.00265409 +/- 5.18487e-05
+ Distributed Cell u14->c52->l13(5,-1)->u7->c16
+   Total Material
+     Fission Rate                         0.00241089 +/- 5.13754e-05
+ Distributed Cell u14->c52->l13(6,-1)->u7->c16
+   Total Material
+     Fission Rate                         0.00194101 +/- 4.83136e-05
+ Distributed Cell u14->c52->l13(7,-1)->u7->c16
+   Total Material
+     Fission Rate                         0.00156675 +/- 4.39701e-05
+ Distributed Cell u14->c52->l13(-7,0)->u7->c16
+   Total Material
+     Fission Rate                         0.00156457 +/- 5.47521e-05
+ Distributed Cell u14->c52->l13(-6,0)->u7->c16
+   Total Material
+     Fission Rate                         0.00203902 +/- 4.1131e-05
+ Distributed Cell u14->c52->l13(-5,0)->u7->c16
+   Total Material
+     Fission Rate                         0.00251715 +/- 6.32764e-05
+ Distributed Cell u14->c52->l13(5,0)->u7->c16
+   Total Material
+     Fission Rate                         0.00220477 +/- 5.31537e-05
+ Distributed Cell u14->c52->l13(6,0)->u7->c16
+   Total Material
+     Fission Rate                         0.00176355 +/- 5.93223e-05
+ Distributed Cell u14->c52->l13(7,0)->u7->c16
+   Total Material
+     Fission Rate                         0.00139791 +/- 4.55902e-05
+ Distributed Cell u14->c52->l13(-7,1)->u7->c16
+   Total Material
+     Fission Rate                         0.00184781 +/- 5.50698e-05
+ Distributed Cell u14->c52->l13(-6,1)->u7->c16
+   Total Material
+     Fission Rate                         0.00215228 +/- 4.24718e-05
+ Distributed Cell u14->c52->l13(-5,1)->u7->c16
+   Total Material
+     Fission Rate                         0.00262014 +/- 3.8237e-05
+ Distributed Cell u14->c52->l13(4,1)->u7->c16
+   Total Material
+     Fission Rate                         0.00233909 +/- 5.84022e-05
+ Distributed Cell u14->c52->l13(5,1)->u7->c16
+   Total Material
+     Fission Rate                         0.00189873 +/- 4.03095e-05
+ Distributed Cell u14->c52->l13(6,1)->u7->c16
+   Total Material
+     Fission Rate                         0.00158433 +/- 4.1443e-05
+ Distributed Cell u14->c52->l13(-7,2)->u7->c16
+   Total Material
+     Fission Rate                         0.00184057 +/- 5.20954e-05
+ Distributed Cell u14->c52->l13(-5,2)->u7->c16
+   Total Material
+     Fission Rate                         0.00268559 +/- 3.68944e-05
+ Distributed Cell u14->c52->l13(3,2)->u7->c16
+   Total Material
+     Fission Rate                         0.00240906 +/- 3.83368e-05
+ Distributed Cell u14->c52->l13(5,2)->u7->c16
+   Total Material
+     Fission Rate                         0.00150889 +/- 4.54825e-05
+ Distributed Cell u14->c52->l13(-8,3)->u7->c16
+   Total Material
+     Fission Rate                         0.00171408 +/- 7.39644e-05
+ Distributed Cell u14->c52->l13(-7,3)->u7->c16
+   Total Material
+     Fission Rate                         0.0019022 +/- 5.03001e-05
+ Distributed Cell u14->c52->l13(-6,3)->u7->c16
+   Total Material
+     Fission Rate                         0.00222797 +/- 4.13621e-05
+ Distributed Cell u14->c52->l13(-5,3)->u7->c16
+   Total Material
+     Fission Rate                         0.00272368 +/- 5.20719e-05
+ Distributed Cell u14->c52->l13(2,3)->u7->c16
+   Total Material
+     Fission Rate                         0.00237081 +/- 4.16674e-05
+ Distributed Cell u14->c52->l13(3,3)->u7->c16
+   Total Material
+     Fission Rate                         0.00197235 +/- 4.94244e-05
+ Distributed Cell u14->c52->l13(4,3)->u7->c16
+   Total Material
+     Fission Rate                         0.00155208 +/- 5.46483e-05
+ Distributed Cell u14->c52->l13(5,3)->u7->c16
+   Total Material
+     Fission Rate                         0.00134186 +/- 4.67273e-05
+ Distributed Cell u14->c52->l13(-8,4)->u7->c16
+   Total Material
+     Fission Rate                         0.00160873 +/- 7.83552e-05
+ Distributed Cell u14->c52->l13(-7,4)->u7->c16
+   Total Material
+     Fission Rate                         0.00175156 +/- 3.84219e-05
+ Distributed Cell u14->c52->l13(-5,4)->u7->c16
+   Total Material
+     Fission Rate                         0.00261201 +/- 5.66066e-05
+ Distributed Cell u14->c52->l13(1,4)->u7->c16
+   Total Material
+     Fission Rate                         0.0024024 +/- 3.87296e-05
+ Distributed Cell u14->c52->l13(3,4)->u7->c16
+   Total Material
+     Fission Rate                         0.00159205 +/- 4.84797e-05
+ Distributed Cell u14->c52->l13(4,4)->u7->c16
+   Total Material
+     Fission Rate                         0.00129839 +/- 4.74138e-05
+ Distributed Cell u14->c52->l13(-8,5)->u7->c16
+   Total Material
+     Fission Rate                         0.00158696 +/- 6.59327e-05
+ Distributed Cell u14->c52->l13(-7,5)->u7->c16
+   Total Material
+     Fission Rate                         0.00179325 +/- 4.44019e-05
+ Distributed Cell u14->c52->l13(-6,5)->u7->c16
+   Total Material
+     Fission Rate                         0.00217068 +/- 4.05516e-05
+ Distributed Cell u14->c52->l13(-5,5)->u7->c16
+   Total Material
+     Fission Rate                         0.00246468 +/- 4.92013e-05
+ Distributed Cell u14->c52->l13(-4,5)->u7->c16
+   Total Material
+     Fission Rate                         0.0026959 +/- 5.91779e-05
+ Distributed Cell u14->c52->l13(-3,5)->u7->c16
+   Total Material
+     Fission Rate                         0.00273948 +/- 4.83756e-05
+ Distributed Cell u14->c52->l13(-2,5)->u7->c16
+   Total Material
+     Fission Rate                         0.00280395 +/- 3.89749e-05
+ Distributed Cell u14->c52->l13(-1,5)->u7->c16
+   Total Material
+     Fission Rate                         0.00274117 +/- 4.5375e-05
+ Distributed Cell u14->c52->l13(0,5)->u7->c16
+   Total Material
+     Fission Rate                         0.00244571 +/- 7.05706e-05
+ Distributed Cell u14->c52->l13(1,5)->u7->c16
+   Total Material
+     Fission Rate                         0.00198035 +/- 6.43341e-05
+ Distributed Cell u14->c52->l13(2,5)->u7->c16
+   Total Material
+     Fission Rate                         0.00157475 +/- 6.25753e-05
+ Distributed Cell u14->c52->l13(3,5)->u7->c16
+   Total Material
+     Fission Rate                         0.00132321 +/- 4.66663e-05
+ Distributed Cell u14->c52->l13(-7,6)->u7->c16
+   Total Material
+     Fission Rate                         0.00185488 +/- 6.62996e-05
+ Distributed Cell u14->c52->l13(-6,6)->u7->c16
+   Total Material
+     Fission Rate                         0.00200169 +/- 3.76562e-05
+ Distributed Cell u14->c52->l13(-5,6)->u7->c16
+   Total Material
+     Fission Rate                         0.00210448 +/- 5.21014e-05
+ Distributed Cell u14->c52->l13(-3,6)->u7->c16
+   Total Material
+     Fission Rate                         0.00222496 +/- 4.60797e-05
+ Distributed Cell u14->c52->l13(-1,6)->u7->c16
+   Total Material
+     Fission Rate                         0.00222938 +/- 6.13245e-05
+ Distributed Cell u14->c52->l13(0,6)->u7->c16
+   Total Material
+     Fission Rate                         0.0020217 +/- 6.6476e-05
+ Distributed Cell u14->c52->l13(1,6)->u7->c16
+   Total Material
+     Fission Rate                         0.00181617 +/- 8.53652e-05
+ Distributed Cell u14->c52->l13(-7,7)->u7->c16
+   Total Material
+     Fission Rate                         0.00168385 +/- 5.75771e-05
+ Distributed Cell u14->c52->l13(-6,7)->u7->c16
+   Total Material
+     Fission Rate                         0.00176211 +/- 5.18321e-05
+ Distributed Cell u14->c52->l13(-5,7)->u7->c16
+   Total Material
+     Fission Rate                         0.00184018 +/- 4.92515e-05
+ Distributed Cell u14->c52->l13(-4,7)->u7->c16
+   Total Material
+     Fission Rate                         0.00182162 +/- 4.19515e-05
+ Distributed Cell u14->c52->l13(-3,7)->u7->c16
+   Total Material
+     Fission Rate                         0.0018805 +/- 5.94797e-05
+ Distributed Cell u14->c52->l13(-2,7)->u7->c16
+   Total Material
+     Fission Rate                         0.00185059 +/- 6.34177e-05
+ Distributed Cell u14->c52->l13(-1,7)->u7->c16
+   Total Material
+     Fission Rate                         0.00188092 +/- 7.80481e-05
+ Distributed Cell u14->c52->l13(0,7)->u7->c16
+   Total Material
+     Fission Rate                         0.00167848 +/- 7.0541e-05
+ Distributed Cell u14->c52->l13(-5,8)->u7->c16
+   Total Material
+     Fission Rate                         0.00159545 +/- 6.87139e-05
+ Distributed Cell u14->c52->l13(-4,8)->u7->c16
+   Total Material
+     Fission Rate                         0.00151996 +/- 5.28924e-05
+ Distributed Cell u14->c52->l13(-3,8)->u7->c16
+   Total Material
+     Fission Rate                         0.00166186 +/- 7.55342e-05
+ ============================>     TALLY 1     <============================
+
+ Total Material
+   heating-local                        7.53794e+07 +/- 143086

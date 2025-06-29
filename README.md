@@ -15,13 +15,15 @@ Utilizing [OpenMC](https://openmc.org), an open-source Monte Carlo neutron trans
 1. Constructing the reactor core model with precise geometry and material definitions,
 2. Calculating the neutron energy spectrum to understand the reactor’s neutron flux distribution across energy levels, and
 3. Mapping the radial neutron flux distribution to visualize spatial variations within the core.
+4. Mapping the power outputs from every fuel assembly to visualize the power distribution for the core.
 
 Neutron flux values are normalized to ensure consistent and conventional units, facilitating accurate interpretation of the reactor’s behavior. Implemented in Python, the simulations leverage OpenMC’s capabilities alongside libraries like NumPy and Matplotlib for data analysis and visualization. This portfolio, developed by Safius Sakib Shuddho and Aqueeb Anjum Sunny, showcases our expertise in nuclear reactor modeling and computational neutronics, demonstrating rigorous scientific methodology and advanced computational techniques.
 
 ## Notebooks
 - [ALFRED Model](notebooks/ALFRED-model/ALFRED-model.ipynb)
 - [Neutron Spectrum](notebooks/neutron-spectrum/neutron-spectrum.ipynb)
-- [Radial Flux](notebooks/radial-flux/radial-flux.ipynb)
+- [Radial Flux Distribution](notebooks/radial-flux/radial-flux.ipynb)
+- [Power Distribution](notebooks/power-distribution/power-distribution.ipynb)
 
 ## Setup Instructions
 To run the notebooks or scripts:
