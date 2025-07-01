@@ -15,7 +15,7 @@
             line-height: 1.6;
         }
         .container {
-            max-width: 800px;
+            max-width: 1024px;
             margin: 0 auto;
             padding: 40px 20px;
             text-align: center;
@@ -43,7 +43,7 @@
             text-decoration: underline;
         }
         .authors {
-            font-size: 1.1em;
+            font-size: 0.85em;
             font-weight: 400;
             color: #b0b0b0;
             margin-bottom: 30px;
@@ -56,6 +56,9 @@
             text-decoration: underline;
         }
         .nav-section {
+        	max-width: 720px;
+        	margin: 0 auto;
+        	text-align: center;
             display: flex;
             flex-direction: column;
             gap: 15px;
@@ -79,6 +82,11 @@
             margin-top: 50px;
             font-size: 0.9em;
             color: #b0b0b0;
+            
+            position: fixed;
+			bottom: 0;
+			left: 0;
+			width: 100%;
         }
         footer a {
             color: #4ecca3;
@@ -101,8 +109,8 @@
 <body>
     <div class="container">
         <header>
-            <h1>ALFRED Reactor Core Portfolio</h1>
-            <h2>Neutronics Analysis Using <a href="https://docs.openmc.org/en/stable/">OpenMC</a> and Python</h2>
+            <h1>ALFRED Reactor Core Neutronics Analysis</h1>
+            <h2>This project presents an elementary neutronics analysis of the Advanced Lead-cooled Fast Reactor European Demonstrator (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0029549314004361">ALFRED</a>) using <a href="https://docs.openmc.org/en/stable/">OpenMC</a> and Python.</h2>
             <p class="authors">Developed by <a href="https://linkedin.com/in/sshuddho/">Safius Sakib Shuddho</a> and <a href="https://www.linkedin.com/in/aqueeb-sunny-509709313/">Aqueeb Anjum Sunny</a></p>
         </header>
         <div class="nav-section">

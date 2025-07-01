@@ -1,6 +1,6 @@
 conda
 python
-jupyter notebook
+jupyter-notebook
 openmc
 numpy
 matplotlib
