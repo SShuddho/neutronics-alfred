@@ -1,7 +1,7 @@
 # ALFRED Reactor Core Model
 A neutronics analysis project of the ALFRED reactor core using OpenMC and Python.
 
-**Authors**: Safius Sakib Shuddho and Aqueeb Anjum Sunny
+**Authors**: [Safius Sakib Shuddho](mailto:s.sshuddho@gmail.com) and [Aqueeb Anjum Sunny](mailto:akib.sunny@gmail.com)
 
 [View Project](https://sshuddho.github.io/neutronics-alfred)
 
@@ -33,9 +33,5 @@ To run the notebooks:
 	export OPENMC_CROSS_SECTIONS='/path/to/data/library/cross_sections.xml'
 4.	Install dependencies:
 	```command
-   pip install -r requirements.txt
-   
+	pip install -r requirements.txt
 
-## Contact Authors
-Contact [Safius Sakib Shuddho](mailto:sshuddho@gmail.com)
-Contact [Aqueeb Anjum Sunny](mailto:akib.sunny@gmail.com)
