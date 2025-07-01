@@ -3,7 +3,7 @@ A neutronics analysis project of the ALFRED reactor core using OpenMC and Python
 
 **Authors**: Safius Sakib Shuddho and Aqueeb Anjum Sunny
 
-[View Portfolio](https://SShuddho.github.io/neutronics-alfred)
+[View Project](https://SShuddho.github.io/neutronics-alfred)
 
 ## Overview
 This project presents an elementary neutronics analysis of the Advanced Lead-cooled Fast Reactor European Demonstrator (ALFRED), designed as a demonstrator for the European Lead-cooled Fast Reactor (ELFR), a GEN-IV nuclear reactor.
