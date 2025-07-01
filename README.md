@@ -2,6 +2,7 @@
 A neutronics analysis project of the ALFRED reactor core using OpenMC and Python.
 
 **Authors**: [Safius Sakib Shuddho](https://linkedin.com/in/sshuddho) and [Aqueeb Anjum Sunny](https://linkedin.com/in/aqueeb-sunny-509709313)  
+
 [View Project](https://sshuddho.github.io/neutronics-alfred)
 
 ## Overview
@@ -15,6 +16,7 @@ Utilizing [OpenMC](https://openmc.org), an open-source Monte Carlo neutron trans
 4. Mapping the power outputs from every fuel assembly to visualize the power distribution for the core.
 
 Neutron flux values are normalized to ensure consistent and conventional units, facilitating accurate interpretation of the reactor’s behavior. Implemented in Python, the simulations leverage OpenMC’s capabilities alongside libraries like NumPy and Matplotlib for data analysis and visualization.  
+
 This project, developed by Safius Sakib Shuddho and Aqueeb Anjum Sunny, showcases our expertise in nuclear reactor modeling and computational neutronics, demonstrating rigorous scientific methodology and advanced computational techniques.
 
 ## Notebooks
