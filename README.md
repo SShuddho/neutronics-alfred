@@ -3,7 +3,7 @@ A neutronics analysis project of the ALFRED reactor core using OpenMC and Python
 
 **Authors**: Safius Sakib Shuddho and Aqueeb Anjum Sunny
 
-[View Project](https://SShuddho.github.io/neutronics-alfred)
+[View Project](https://sshuddho.github.io/neutronics-alfred)
 
 ## Overview
 This project presents an elementary neutronics analysis of the Advanced Lead-cooled Fast Reactor European Demonstrator (ALFRED), designed as a demonstrator for the European Lead-cooled Fast Reactor (ELFR), a GEN-IV nuclear reactor.
@@ -25,9 +25,17 @@ Neutron flux values are normalized to ensure consistent and conventional units, 
 
 ## Setup Instructions
 To run the notebooks:
-1. Install OpenMC: See [OpenMC documentation](https://docs.openmc.org/en/stable/quickinstall.html).
-2. Download ENDF Data: See [Official Nuclear Data Libraries](https://openmc.org/official-data-libraries/)
-3. Set `OPENMC_CROSS_SECTIONS` environment variable.
-4. Install dependencies:
-   ```bash
+1.	Install OpenMC: See [OpenMC documentation](https://docs.openmc.org/en/stable/quickinstall.html).
+2.	Download ENDF Data: See [Official Nuclear Data Libraries](https://openmc.org/official-data-libraries/)
+	Optionally Download [Depletion Chains](https://openmc.org/depletion-chains/) for Burnup Analysis
+3.	Set `OPENMC_CROSS_SECTIONS` environment variable:
+	```command
+	export OPENMC_CROSS_SECTIONS='/path/to/data/library/cross_sections.xml'
+4.	Install dependencies:
+	```command
    pip install -r requirements.txt
+   
+
+## Contact Authors
+Contact [Safius Sakib Shuddho](mailto:sshuddho@gmail.com)
+Contact [Aqueeb Anjum Sunny](mailto:akib.sunny@gmail.com)
