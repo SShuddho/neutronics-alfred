@@ -1,8 +1,7 @@
 # ALFRED Reactor Core Model
 A neutronics analysis project of the ALFRED reactor core using OpenMC and Python.
 
-**Authors**: [Safius Sakib Shuddho](mailto:s.sshuddho@gmail.com) and [Aqueeb Anjum Sunny](mailto:akib.sunny@gmail.com)
-
+**Authors**: [Safius Sakib Shuddho](https://linkedin.com/in/sshuddho) and [Aqueeb Anjum Sunny](https://linkedin.com/in/aqueeb-sunny-509709313)  
 [View Project](https://sshuddho.github.io/neutronics-alfred)
 
 ## Overview
@@ -15,7 +14,8 @@ Utilizing [OpenMC](https://openmc.org), an open-source Monte Carlo neutron trans
 3. Mapping the radial neutron flux distribution to visualize spatial variations within the core.
 4. Mapping the power outputs from every fuel assembly to visualize the power distribution for the core.
 
-Neutron flux values are normalized to ensure consistent and conventional units, facilitating accurate interpretation of the reactor’s behavior. Implemented in Python, the simulations leverage OpenMC’s capabilities alongside libraries like NumPy and Matplotlib for data analysis and visualization. This project, developed by Safius Sakib Shuddho and Aqueeb Anjum Sunny, showcases our expertise in nuclear reactor modeling and computational neutronics, demonstrating rigorous scientific methodology and advanced computational techniques.
+Neutron flux values are normalized to ensure consistent and conventional units, facilitating accurate interpretation of the reactor’s behavior. Implemented in Python, the simulations leverage OpenMC’s capabilities alongside libraries like NumPy and Matplotlib for data analysis and visualization.  
+This project, developed by Safius Sakib Shuddho and Aqueeb Anjum Sunny, showcases our expertise in nuclear reactor modeling and computational neutronics, demonstrating rigorous scientific methodology and advanced computational techniques.
 
 ## Notebooks
 - [ALFRED Model](notebooks/ALFRED-model/ALFRED-model.ipynb)
@@ -26,7 +26,7 @@ Neutron flux values are normalized to ensure consistent and conventional units, 
 ## Setup Instructions
 To run the notebooks:
 1.	Install OpenMC: See [OpenMC documentation](https://docs.openmc.org/en/stable/quickinstall.html).
-2.	Download ENDF Data: See [Official Nuclear Data Libraries](https://openmc.org/official-data-libraries/)
+2.	Download ENDF Data: See [Official Nuclear Data Libraries](https://openmc.org/official-data-libraries/)  
 	Optionally Download [Depletion Chains](https://openmc.org/depletion-chains/) for Burnup Analysis
 3.	Set `OPENMC_CROSS_SECTIONS` environment variable:
 	```command
